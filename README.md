@@ -9,7 +9,7 @@ Eurorack 10-pin power breakout, designed to fit a standard breadboard.
 - 10uF local power bypass (optional) 
 
 ## Usage
-The breakout board is designed to be placed on the left-hand or right-hand side of a standard 0.1" breadboard. For the left-hand orientation, the -12V connection will be on the top power bus rail, and +12V on the bottom. This coincides with the power pins of a left-hand orientation of a TL074 op amp IC package that I frequently use (pins 4 and 11). See [image](./image/eurorackPower10pin_breadboard.jpg) for a visual reference.
+The breakout board is designed to be placed on the left-hand or right-hand side of a standard breadboard with 0.1" lead spacing. For the left-hand orientation, the -12V connection will be on the top power bus rail, and +12V on the bottom. This coincides with the power pins of a left-hand orientation of a TL074 op amp IC package that I frequently use (pins 4 and 11). See [image](./image/eurorackPower10pin_breadboard.jpg) for a visual reference.
 
 The LEDs are optional, and can be omitted and/or replaced with extra header pins. I use the convention of red for +12V and yellow for -12V. I use a minimum of 1k ohm resistors for LEDs, but higher values may be used to reduce the brightness.
 
