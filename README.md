@@ -1,6 +1,6 @@
 # EurorackPowerBreakout
 Eurorack 10-pin power breakout, designed to fit a standard breadboard.
-http://johnsquibb.com/electronics/eurorack-power-breakout-board.html
+[http://johnsquibb.com/electronics/eurorack-power-breakout-board.html](http://johnsquibb.com/articles/electronics/eurorack-power-breakout-board.html)
 
 ## Features
 - Designed for use with 10 pin keyed horizontal box header.
